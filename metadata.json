@@ -1,0 +1,8 @@
+{
+  "name": "Remix ProductRail",
+  "description": "Unified product work, delivery, QA, UAT, sprint, backlog, ticket and release management platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
